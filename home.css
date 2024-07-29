@@ -1,3 +1,8 @@
+:root{
+    --image-width:50%;
+    --image-hover-scale:1.1;
+    --transition-duration:0.3s;
+}
 *{
     margin: 0;
     padding: 0;
